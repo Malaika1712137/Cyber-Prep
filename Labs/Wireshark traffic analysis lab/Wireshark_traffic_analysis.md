@@ -24,5 +24,5 @@
 ### 1. Suspicious DNS Queries
 - Domain: wpad.easyas123.tech
 - IP resolved to: 10.2.28.88
-- Why suspicious: Domain name was flagged as not found during the wireshark analysis.
+- Why suspicious: Unexpected WPAD-related domain observed during DNS analysis, appeared unusual in the context of the capture
 
