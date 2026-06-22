@@ -31,3 +31,26 @@ It is a foundational framekwork that allowes secure data encryption, communicati
 # Zero Trust and Defense in Depth
 1. Zero Trust: NEVER TRUST, ALWAYS VERIFY
 2. Defense in Depth: Multiple layers to protect the system.
+
+## DOMAIN 1 Practice Quiz notes
+* Viruses requires a host to execute, while worms can replicate itself
+* Virus spreads to impact and damage other resources on the system
+* Spyware monitors our actions
+* Botnet is a collection of zombie computers to collect personal information
+* Trojan Horse appears to be legitmate but performs malicious activity 
+* Logic bomb perfroms malicious activity at a specific time or after an event is triggered
+* Logic bomb is also called an Asynchronous attack
+* Rootkit allows adminitrator-level access, hides itself from detection
+* Adware is when the browsers shows ads targeted to you based on your recent searches
+* Anti-virus software are benefecial against worms and trojan horse
+* Retro virus deletes key antivirus program files
+* Stealth virus conceals its presence by intercepting system requests and altering service outputs
+* Example of an Internal Threat (user accidentally deletes the desings)
+* USB devices are the biggest threat to confidentiality
+* Whaling is when the target is big, example CEO
+* Spear Phishing is when an attacker gathers personal information about the target individual in an organization
+* Dumpster diving is gathering information from trash
+* Piggy backing is like following someone entering into a secure buiding
+* Vishing is like phishing but through audio, via voicemail or call, also known as VoIP (Voice over IP)
+* Masquerading is when an attacker convinces a person to grant access to sensitive ifnromation, pretend to be legitmate
+* Spim is when an attacker send unwanted text messages to many people with the intent to sell products
