@@ -54,3 +54,12 @@ It is a foundational framekwork that allowes secure data encryption, communicati
 * Vishing is like phishing but through audio, via voicemail or call, also known as VoIP (Voice over IP)
 * Masquerading is when an attacker convinces a person to grant access to sensitive ifnromation, pretend to be legitmate
 * Spim is when an attacker send unwanted text messages to many people with the intent to sell products
+* People are the weakest point in organization's infrastructure
+* DDos attack uses zombie computers (botnets) ditributed deniel of service, multiple attacks, multiple machines at the same time
+* Denial of service is when the attacker overlaods the system so it ddenies any further service
+* Smurf attack is type of DDoS, it overwhelms target system by tricking multiple innocent devices.
+Xmas tree attack obtains the infromation about open ports of the system
+* Nmap is used to show the networks details and devices on 
+* Null scan turns off all flags in a TCP header
+* Ping flood is when the victim has less bandwidth (max amount of data a netwrok can handle at once) than the attacker
+* Teardrop is another type of DDoS where the victim's system rebuild invalid UDP packets, causing system to crash
