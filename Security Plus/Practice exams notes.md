@@ -214,7 +214,7 @@
 * DAC - discretionary access control, based on user identity
 * RBAC - role based access control
 * RuBAC - rule based access control
-* ABAC - attribute based access control, closely resemble natuarl language, based on subject, action, resources, and environment
+* ABAC - attribute based access control, closely resemble natural language, based on subject, action, resources, and environment
 * Principle of least privilege - ensure that users are only granted minimum access
 
 ## PASSWORD CONCEPTS
